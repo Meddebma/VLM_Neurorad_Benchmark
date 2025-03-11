@@ -1,2 +1,2 @@
 # VLM_Neurorad_Benchmark
-This repository contains a high quality dataset for benchmarking VLM on Neurological Image Analysis
+This is the GitHub repository of the manuscript titled "More Harm than Help? Evaluating the Capabilities of Vision-Language Models in Neurological Image Analysis" currently under revision for the publication in npj Digital Medicine.  
